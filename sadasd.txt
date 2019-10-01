@@ -1,1 +1,2 @@
 Se ha modificado un archivo clonado
+Se ha corregido el problema en la rama issue 
